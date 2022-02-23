@@ -1,5 +1,7 @@
 Olá, Meu nome é Diego
 
-💻Tenho conhecimentos em HTML, CSS, javaScript
+🎓Sou estudante de Análise e Desenvolvimento de sistemas 
 
-📖Também sei trabalhar com APIs como NODEJS, REACT, EXPRESS
+ 💻Amante da tecnologia e da programação 
+ 
+ 📚Conhecimentos em JAVASCRIPT, REACT, NODE, HTML/CSS, PYTHON
