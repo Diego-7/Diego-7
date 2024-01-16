@@ -1,7 +1,7 @@
 Olá, Meu nome é Diego
 
-🎓Sou estudante de Análise e Desenvolvimento de sistemas 
+🎓Ensino superior em Análise e Desenvolvimento de Sistemas 
 
  💻Amante da tecnologia e da programação 
  
- 📚Conhecimentos em JAVASCRIPT, REACT, NODE, HTML/CSS, PYTHON
+ 📚Conhecimentos em Python, Inteligencia Artificial, Business Intelligence, Engenharia de Dados, Analise de Dados, Ciencia de Dados
